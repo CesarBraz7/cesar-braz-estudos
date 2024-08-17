@@ -3,3 +3,5 @@ meu nome é césar da silva braz, tenho 19 anos e estou cursando análise e dese
 tenho conhecimentos nas duas áreas de desenvolvimento:
 no backend, já desenvolvi em python, c# e java;
 no front, já desenvolvi com next, react, angular e tambem me aventurei no mobile com react native.
+
+nas horas vagas, gosto de jogar e andar de moto
