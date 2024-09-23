@@ -1,0 +1,43 @@
+#app{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+header {
+    width: 100vw;
+    padding: 1rem;
+    background-color: ghostwhite;
+}
+
+h1 {
+    text-align: center;
+}
+
+#joke-field{
+    height: 30vh;
+    overflow-y: scroll;
+}
+
+form{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 0.5rem ;
+    margin-bottom: 2rem;
+}
+
+#btn-field{
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+}
+
+form button{
+    background: green;
+    border: none;
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 14px;
+
+}
